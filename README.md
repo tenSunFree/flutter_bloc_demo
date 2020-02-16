@@ -1,16 +1,28 @@
-# flutter_bloc_demo
+# FlutterBlocDemo
 
-flutter_bloc_demo
+簡介
+==================================
+如果對於 bloc equatable 有興趣的話, 可以參考看看                                
 
-## Getting Started
+取材自以下資源
+--------
+bloc                                                                 
+https://github.com/felangel/bloc     
 
-This project is a starting point for a Flutter application.
+equatable                                                                 
+https://github.com/felangel/equatable     
 
-A few resources to get you started if this is your first Flutter project:
+王品瘋美食                                                                 
+https://play.google.com/store/apps/details?id=com.wowprimeapp.app&hl=zh_TW 
+                  
+預覽
+--------
+<p align="left">
+  <img src="https://i.imgur.com/qN750fZ.png" width="230"/>
+  <img src="https://i.imgur.com/76h5eE2.png" width="230"/>
+  <img src="https://i.imgur.com/59IrQUo.png" width="230"/>
+</p> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+備註
+--------
+圖片資源僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝
